@@ -1,5 +1,5 @@
 body{
-	background: url(https://plus.unsplash.com/premium_photo-1671359841639-8913ebc00161?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMyfHxncml8ZW58MHx8MHx8fDA%3D);
+	background: url(https://media.istockphoto.com/id/637350420/fr/photo/fond-grunge.webp?a=1&b=1&s=612x612&w=0&k=20&c=nltr-t3bT86E80yvQyzHAzT5iRvdC_Rk6PRqeahXTvM=);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: left;
@@ -96,4 +96,14 @@ a {
     color: rgba(0, 0, 0, 0.75);
     text-decoration: none;
 	font-family: 'Roboto';
+}
+.LANGUES
+{
+  width: 200px;
+}
+.Dorra {
+  text-align: center;
+  padding: 5px;
+  background-color: #0748f1;
+  color: white;
 }
